@@ -13,7 +13,7 @@ Este é um programa que utiliza o algoritmo CYK para fazer a verificação de pa
 ------------------------------------------------
 Opção escolhida : 
 ```
-Esse é o único menu que o programa possui, e nele deve-se seguir a seguinte ordem :
+Esse é o único menu que o programa possui, e nele deve-se seguir a ordem :
 
 #### 1. Ler o arquivo texto
 Nessa opção, o usuário deverá criar um arquivo txt com o nome "grammar" na pasta do projeto, e no conteúdo do mesmo armazenar uma gramática na forma normal de chomsky, conforme o exemplo abaixo :
