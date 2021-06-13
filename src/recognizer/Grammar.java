@@ -1,16 +1,16 @@
 package recognizer;
 import java.util.ArrayList;
 public class Grammar {
-    // ATRIBUTOS
-    private final ArrayList<Variable> premises;
+    // ATTRIBUTES
+    private final ArrayList<Variable> produtions;
     
-    // CONSTRUTOR
+    // CONSTRUCTORS
     public Grammar() {
-        this.premises = new ArrayList();
+        this.produtions = new ArrayList();
     }
     
-    // GETTERS E SETTERS
-    public ArrayList<Variable> getPremises() {
-        return premises;
+    // GETTERS AND SETTERS
+    public ArrayList<Variable> getProdutions() {
+        return produtions;
     }
 }
